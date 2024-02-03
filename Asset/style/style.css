@@ -26,3 +26,12 @@ span{
 .pTag{
     font-weight: bolder;
 }
+button{
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+}
+button:hover{
+    color: green;
+    background-color: blue;
+}

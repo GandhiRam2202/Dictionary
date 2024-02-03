@@ -19,4 +19,4 @@ To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
 
-[Netlify]()   
+[Netlify](https://grpdictionary.netlify.app/)   
